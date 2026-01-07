@@ -32,4 +32,6 @@ la gestión de datos (CRUD) y un sistema de recomendación basado en contenido.
 
 El notebook puede ejecutarse directamente en Google Colab sin instalación local:
 
+https://colab.research.google.com/github/aaronblanco4/delichoice-recomendador/blob/main/DELICHOICE_Notebook_Reproduccion_EXPLICADO.ipynb
+
 
